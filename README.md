@@ -2,10 +2,15 @@
 
 > Template de uso de fotos aleatoreas de perritos para ejercicio de [taller de git Open Source UC](https://github.com/open-source-uc/talleres).
 
-## Autores
+## Commits por hacer
 
-| Nombre | Mail | GitHub
-| --- | --- | --- |
-| Jose Antonio Castro 🔥 | jacastro18@uc.cl | [@Baelfire18](https://github.com/Baelfire18) |
-| Agustin Covarrubias 🚀 | agucova@uc.cl | [@agucova](https://github.com/agucova) |
-| Benjamin Vicente 🍊 | benjavicente@uc.cl | [@benjavicente](https://github.com/benjavicente ) |
+| Commit | Descripción |
+| --- | ---
+| fix: path for every OS | Cambiar la la forma en que se consulta al path |
+| refactor: prettier photos lists | Crear una forma de visualizar los nombres de fotos más amigables al usuario |
+| docs: change readme title | Actualizar titulo del readme |
+| feat: add gitignore | Agregar archivo de gitignore |
+
+## Rama por crear
+
+> Refactor y crear archivo `constantes.py`
